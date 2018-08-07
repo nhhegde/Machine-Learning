@@ -4,6 +4,7 @@
 Implemented a K nearest neighbors classification algorithm for a college course in 2014. 
 (c) Neil Hegde 2015, unless otherwise noted. 
 
+...notice a few strange things? Good on you! Please get in touch. This project is very old. 
 
 ## Requirements
 
